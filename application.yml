@@ -8,7 +8,7 @@
 #           - '*service'
 spring:
   datasource:
-    uri: jdbc:mysql://localhost:3306/rent-cars-db?createDatabaseIfNotExist=true
+    uri: jdbc:mysql://localhost:3306/rentcarsDB?createDatabaseIfNotExist=true
     username: root
     password:
     driver-class-name: com.mysql.jdbc.Driver
