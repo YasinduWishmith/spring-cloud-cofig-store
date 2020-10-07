@@ -10,7 +10,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/rentcarsDB?createDatabaseIfNotExist=true
     username: root
-    password: yasindu
+    password:
     driver-class-name: com.mysql.jdbc.Driver
     initialization-mode: always
   jpa:
